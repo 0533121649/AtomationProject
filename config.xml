@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <site>
+        <loginNumber>312549249</loginNumber>
+        <loginPassword>e123456</loginPassword>
+    </site>
+    <site>
+        <URL>https://www.dira.moch.gov.il/</URL>
+    </site>
+
+    <site>
+        <lotteryNumber>575</lotteryNumber>
+        <price>11000</price>
+    </site>
+
+</config>
